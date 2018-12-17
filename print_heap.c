@@ -1,5 +1,4 @@
 // Linni Cai, Jingqi Yang
-// CSE 374 Homework 6
 // November 30, 2017
 // This file prints the listing of blocks
 // on the free list.
